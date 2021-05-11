@@ -11,7 +11,7 @@ NOTE: The mods have to be in ".minecraft/mods" folder and cannot be inside anoth
 Current Modpacks:
 
 -------------------------
-Immersive Mekanism (Version-1):
+Mekanism Pack (Version-1.1):
 
 Game Version: 1.16.5
 
@@ -19,6 +19,6 @@ Mods:
 - Mekanism
   + Mekanism Tools
   + Mekanism Generators
-- Immersive Engenering
-  + Immersive Petrolium
+- JEI (Just Enough Items)
+- OptiFine
 --------------------------
