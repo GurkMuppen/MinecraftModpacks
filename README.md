@@ -11,7 +11,7 @@ NOTE: The mods have to be in ".minecraft/mods" folder and cannot be inside anoth
 Current Modpacks:
 
 -------------------------
-Mekanism Pack (Version-1.1):
+Mekanism Pack (Version-1.2):
 
 Game Version: 1.16.5
 
@@ -20,5 +20,6 @@ Mods:
   + Mekanism Tools
   + Mekanism Generators
 - JEI (Just Enough Items)
+- ConnectedTextureMod
 - OptiFine
 --------------------------
